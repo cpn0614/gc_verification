@@ -1,0 +1,23 @@
+{
+  "name": "gc_verification",
+  "version": "1.0.0",
+  "description": "javascript of verification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpn0614/gc_verification.git"
+  },
+  "keywords": [],
+  "author": "graduc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpn0614/gc_verification/issues"
+  },
+  "homepage": "https://github.com/cpn0614/gc_verification#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0"
+  }
+}
